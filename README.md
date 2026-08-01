@@ -121,8 +121,11 @@ The dashboard consists of three interactive pages.
 
 ## 1️⃣ Workforce Overview
 
+## 📊 Workforce Overview
+
 Provides a high-level summary of the organization's workforce.
 
+![Workforce Overview](Images/Workforce_Overview.png)
 ### KPIs
 
 - Total Employees
