@@ -121,8 +121,6 @@ The dashboard consists of three interactive pages.
 
 ## 1️⃣ Workforce Overview
 
-## 📊 Workforce Overview
-
 Provides a high-level summary of the organization's workforce.
 
 ![Workforce Overview](Images/Workforce_Overview.png)
@@ -130,9 +128,10 @@ Provides a high-level summary of the organization's workforce.
 
 - Total Employees
 - Active Employees
+- Terminated Employees
 - Average Age
 - Average Tenure
-- Active Rate
+- Turnover Rate
 
 ### Visuals
 
@@ -142,13 +141,13 @@ Provides a high-level summary of the organization's workforce.
 - Employee Distribution by State
 - Employees by Age Group
 
-> *(Insert Workforce Overview Screenshot Here)*
-
 ---
 
 ## 2️⃣ Hiring & Retention Analysis
 
 Tracks workforce stability and hiring performance.
+
+![Hiring & Retention](Images/Hiring_Retention.png)
 
 ### KPIs
 
@@ -165,13 +164,13 @@ Tracks workforce stability and hiring performance.
 - Top 10 Departments by Average Tenure
 - Top 8 Departments by Turnover Rate
 
-> *(Insert Hiring & Retention Screenshot Here)*
-
 ---
 
 ## 3️⃣ Employee Directory
 
 Interactive employee lookup page.
+
+![Employee Directory](Images/Employee_Directory.png)
 
 ### Filters
 
@@ -181,9 +180,7 @@ Interactive employee lookup page.
 - Gender
 - Race
 - Age Group
-
-> *(Insert Employee Directory Screenshot Here)*
-
+  
 ---
 
 # 💡 Key Insights
