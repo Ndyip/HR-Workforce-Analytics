@@ -1,4 +1,4 @@
-# HR-Workforce-Analytics
+# HR-Workforce-Analytics-Dashboard
 An end-to-end Human Resources analytics project built with **SQL Server** and **Power BI**. This project transforms raw HR data into interactive dashboards that provide insights into workforce demographics, hiring trends, employee retention, and departmental performance.
 
 ---
