@@ -232,30 +232,9 @@ Interactive employee lookup page.
 
 ---
 
-## 📷 Dashboard Preview
-
-### Workforce Overview
-
-*(Insert Screenshot)*
-
----
-
-### Hiring & Retention Analysis
-
-*(Insert Screenshot)*
-
----
-
-### Employee Directory
-
-*(Insert Screenshot)*
-
----
-
 ## 📬 Contact
 
 If you'd like to discuss this project or connect, feel free to reach out.
 
-- **LinkedIn:** *Add your LinkedIn profile*
-- **GitHub:** *Add your GitHub profile*
-- **Email:** *Add your professional email*
+- **LinkedIn:** *https://www.linkedin.com/in/jennifer-bitrus-6800722b6/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BqefDipjJSa%2BJK1JYb4vgaQ%3D%3D*
+- **Email:** *ndyipjennifer@gmail.com*
